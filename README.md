@@ -1,7 +1,5 @@
 # Secure_Motorcycle
 
-### CODE WILL BE UPLOADED ONCE IT IS SCRUBBED OF PRIVATE DATA AND KEYS.
-
 #### This project is a simple homebuilt motorcycle security device.
 
 The device will be made up of multiple hardware components:
@@ -13,6 +11,9 @@ The device will be made up of multiple hardware components:
   
 As of 12 Dec 2017 we have achieved the M.V.P.
 * https://trello.com/b/QzYaGNUN
+
+
+All Keys should be kept in the same directory as the scripts are located. This will simplify the setup procedure.
 
 On startup of the RPi the GPS will begin looking for and aquring a GPS lock.
 
